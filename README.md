@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem-vindo 👋, I'm me chamo Lucas</h1>
+<h1 align="center">Seja bem-vindo 👋, me chamo Lucas</h1>
 <h3 align="center">Sou um educador físico aprendendo cada dia mais sobre tecnologia</h3>
 
 - 🌱 Atualmente estou empenhado em aprender **Python e JavaScript**
