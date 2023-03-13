@@ -1,31 +1,34 @@
-<h1 align="center">Seja bem-vindo 👋, me chamo Lucas</h1>
-<h3 align="center">Sou um educador físico aprendendo cada dia mais sobre tecnologia</h3>
+Olá, eu sou um Desenvolvedor com experiência em diversas linguagens
+Sobre Mim
+Eu sou um desenvolvedor experiente, com conhecimento em várias linguagens de programação. Eu trabalho com Java, JavaScript, Go, Python, HTML, CSS, e Dart usando o framework Flutter. Além disso, também tenho experiência em gerenciamento de bancos de dados Postgres.
 
-- 🌱 Atualmente estou empenhado em aprender **Python e JavaScript**
+Eu sou apaixonado por programação e estou sempre procurando aprender mais e melhorar minhas habilidades.
 
-- 📫 Você pode entrar em contato comigo através do email **lucasmacedo9@hotmail.com**
+Linguagens de Programação
+Aqui estão algumas das linguagens de programação que tenho experiente:
 
-- 📄 Para acompanhar minha evolução esse é meu linkedIn [https://www.linkedin.com/in/lucasmacedoviana/](https://www.linkedin.com/in/lucas-macedo-viana-8b78961b0/)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucasmacedoviana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasmacedoviana/" height="30" width="40" /></a>
-<a href="https://instagram.com/personal.lucasmacedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@personal.lucasmacedo" height="30" width="40" /></a>
-</p>
+Framework
+Aqui estão alguns frameworks que tenho experiente:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Banco de Dados
+Eu também tenho experiencia em trabalhar com o banco de dados Postgres:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmacedoviana&show_icons=true&locale=en&layout=compact" alt="lucasmacedoviana" /></p>
 
-<!---
-LucasMacedoViana/LucasMacedoViana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Contato
+Se você quiser entrar em contato comigo ou saber mais sobre minhas habilidades, pode me encontrar no LinkedIn ou enviar um email:
 
-- 👋 Hi, I’m @LucasMacedoViana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmacedoviana/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmacedo9@hotmail.com)
 
---->
+
+Fique à vontade para entrar em contato comigo se precisar de ajuda com um projeto ou quiser discutir uma oportunidade de trabalho!
