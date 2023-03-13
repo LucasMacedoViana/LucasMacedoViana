@@ -26,6 +26,7 @@ Eu também tenho experiencia em trabalhar com o banco de dados Postgres:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Para acompanhar minhas anotações e meusestudos basta acessar esse meu repositorio no Github:
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasMacedoViana/Estudo)
 
 
