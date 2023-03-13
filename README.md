@@ -16,11 +16,13 @@ Aqui estão algumas das linguagens de programação que tenho experiente:
 
 Framework
 Aqui estão alguns frameworks que tenho experiente:
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
 Banco de Dados
 Eu também tenho experiencia em trabalhar com o banco de dados Postgres:
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
